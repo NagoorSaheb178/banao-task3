@@ -79,7 +79,7 @@ with the serverless offline server running, you can send a POST request to http:
 ### Example using Postman:
 
     Method: POST
-    URL: http://localhost:4000/dev/send-email
+    URL: http://localhost:3000/dev/send-email
     Headers: Content-Type: application/json
     Body (raw JSON):
 ```
@@ -102,8 +102,3 @@ internship-assignment/
 .gitignore
 README.md
 
-## Contact me
-
-* **GitHub:** [https://github.com/priyanshgitthat/internship-assignment](https://github.com/priyanshgitthat/internship-assignment)
-* **Email:** priyanshverma157@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/priyanshv/](https://www.linkedin.com/in/priyanshv/)
